@@ -47,14 +47,14 @@ Tested with Parrot & Ubuntu Operating Systems.
 
 ## Installation
 Alternatively, your can install the rapidscan python module with pip. This will create a link for rapidscan in your PATH.
- ''' bash 
+```bash 
 git clone https://github.com/Atharv787/website_scanner.git /opt/
 
 cd /opt/rapidscan
 python3 -m pip install .
 Docker Support
 Under development.
-'''
+```
 ## Contribution
 
 Create your feature branch: git checkout -b my-new-feature
