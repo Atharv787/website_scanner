@@ -2,7 +2,7 @@
 port scanner all in one scanner..
 
 
-##Features##
+##  Features 
 one-step installation.
 executes a multitude of security scanning tools, does other custom coded checks and prints the results spontaneously.
 some of the tools include nmap, dnsrecon, wafw00f, uniscan, sslyze, fierce, lbd, theharvester, amass, nikto etc executes under one entity.
@@ -20,12 +20,12 @@ detailed comprehensive report in a portable document format (*.pdf) with complet
 on the run metasploit auxilliary modules to discover more vulnerabilities. (under development)
 
 
-##FYI:##
+## FYI:
 program is still under development, works and currently supports 80 vulnerability tests.
 parallel processing is not yet implemented, may be coded as more tests gets introduced.
 
 
-##Vulnerability Checks##
+## Vulnerability Checks##
 
 ✔️ DNS/HTTP Load Balancers & Web Application Firewalls.
 ✔️ Checks for Joomla, WordPress and Drupal
@@ -39,15 +39,15 @@ parallel processing is not yet implemented, may be coded as more tests gets intr
 & more coming up...
 
 
-##Requirements
+## Requirements
 Python 3
 Kali OS (Preferred, as it is shipped with almost all the tools)
 Tested with Parrot & Ubuntu Operating Systems.
 
 
-##Installation
+## Installation
 Alternatively, your can install the rapidscan python module with pip. This will create a link for rapidscan in your PATH.
-'''bash 
+ ''' bash 
 git clone https://github.com/Atharv787/website_scanner.git /opt/
 
 cd /opt/rapidscan
@@ -55,7 +55,7 @@ python3 -m pip install .
 Docker Support
 Under development.
 '''
-##Contribution
+## Contribution
 
 Create your feature branch: git checkout -b my-new-feature
 Commit your changes: git commit -am 'Add some feature'
