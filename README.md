@@ -34,10 +34,15 @@ parallel processing is not yet implemented, may be coded as more tests gets intr
 ✔️ SSL related Vulnerabilities (HEARTBLEED, FREAK, POODLE, CCS Injection, LOGJAM, OCSP Stapling).
 
 ✔️ Commonly Opened Ports.
+
 ✔️ DNS Zone Transfers using multiple tools (Fierce, DNSWalk, DNSRecon, DNSEnum).
-✔️ Sub-Domains Brute Forcing (DNSMap, amass, nikto)
+
+✔️ Sub-Domains Brute Forcing (DNSMap, amass, nikto).
+
 ✔️ Open Directory/File Brute Forcing.
+
 ✔️ Shallow XSS, SQLi and BSQLi Banners.
+
 ✔️ Slow-Loris DoS Attack, LFI (Local File Inclusion), RFI (Remote File Inclusion) & RCE (Remote Code Execution).
 & more coming up...
 
