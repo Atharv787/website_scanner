@@ -2,7 +2,7 @@
 port scanner all in one scanner..
 
 
-##Features
+##Features##
 one-step installation.
 executes a multitude of security scanning tools, does other custom coded checks and prints the results spontaneously.
 some of the tools include nmap, dnsrecon, wafw00f, uniscan, sslyze, fierce, lbd, theharvester, amass, nikto etc executes under one entity.
@@ -20,12 +20,12 @@ detailed comprehensive report in a portable document format (*.pdf) with complet
 on the run metasploit auxilliary modules to discover more vulnerabilities. (under development)
 
 
-##FYI:
+##FYI:##
 program is still under development, works and currently supports 80 vulnerability tests.
 parallel processing is not yet implemented, may be coded as more tests gets introduced.
 
 
-##Vulnerability Checks
+##Vulnerability Checks##
 
 ✔️ DNS/HTTP Load Balancers & Web Application Firewalls.
 ✔️ Checks for Joomla, WordPress and Drupal
