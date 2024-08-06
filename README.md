@@ -28,8 +28,11 @@ parallel processing is not yet implemented, may be coded as more tests gets intr
 ## Vulnerability Checks##
 
 ✔️ DNS/HTTP Load Balancers & Web Application Firewalls.
+
 ✔️ Checks for Joomla, WordPress and Drupal
+
 ✔️ SSL related Vulnerabilities (HEARTBLEED, FREAK, POODLE, CCS Injection, LOGJAM, OCSP Stapling).
+
 ✔️ Commonly Opened Ports.
 ✔️ DNS Zone Transfers using multiple tools (Fierce, DNSWalk, DNSRecon, DNSEnum).
 ✔️ Sub-Domains Brute Forcing (DNSMap, amass, nikto)
