@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#                               __         __
-#                              /__)_   '_/(  _ _
-#                             / ( (//)/(/__)( (//)
-#                                  /
-#
+#                   ___.                                             
+#     __  _  __ ____\_ |__   ______ ____   ____   ____   ___________ 
+#     \ \/ \/ // __ \| __ \ /  ___// ___\ /    \ /    \_/ __ \_  __ \
+#      \     /\  ___/| \_\ \\___ \\  \___|   |  \   |  \  ___/|  | \/
+#       \/\_/  \___  >___  /____  >\___  >___|  /___|  /\___  >__|   
+#                  \/    \/     \/     \/     \/     \/     \/      
 # Author     : Atharv Shamrao Jadhav
 # Tool       : WebScan v1.2
 # Usage      : python3 webscan.py example.com
@@ -163,10 +164,12 @@ def clear():
 def logo():
     print(bcolors.WARNING)
     logo_ascii = """
-                                  __         __
-                                 /__)_  """+bcolors.BADFAIL+" ●"+bcolors.WARNING+"""_/(  _ _
-                                / ( (//)/(/__)( (//)
-                                     /
+                                                ___.                                             
+                                  __  _  __ ____\_ |__   ______ ____   ____   ____   ___________ 
+                                   \ \/ \/ // __ \| __ \ /  ___// ___\ /    \ /    \_/ __ \_  __ \
+                                    \     /\  ___/| \_\ \\___ \\  \___|   |  \   |  \  ___/|  | \/
+                                     \/\_/  \___  >___  /____  >\___  >___|  /___|  /\___  >__|   
+                                                \/    \/     \/     \/     \/     \/     \/      
                      """+bcolors.ENDC+"""(The Multi-Tool Web Vulnerability Scanner)
 
                      Check out our new software, """+bcolors.BG_LOW_TXT+"""NetBot"""+bcolors.ENDC+""" for simulating DDoS attacks - 
